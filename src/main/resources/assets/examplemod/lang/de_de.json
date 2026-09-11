@@ -1,0 +1,28 @@
+{
+	"itemGroup.squaredswords": "Beispiel Create-Erweiterung",
+	"itemGroup.squaredswords.main_tab": "Hauptreiter",
+
+	"block.squaredswords.squaredswords_kinetic_block": "Beispiel-Kinetikblock",
+	"block.squaredswords.squaredswords_generator_block": "Beispiel-Generatorblock",
+
+	"item.squaredswords.squaredswords_item": "Beispielgegenstand",
+	"item.squaredswords.squaredswords_result": "Beispielergebnis",
+	"item.squaredswords.incomplete_example": "Unvollständiges Beispiel",
+
+	"gui.squaredswords.squaredswords_generator.generating": "Erzeugt Rotation",
+	"gui.squaredswords.squaredswords_kinetic.consuming": "Verbraucht Belastung",
+	"gui.squaredswords.rpm": "%s UPM",
+	"gui.squaredswords.su": "%s SU",
+
+	"display_source.squaredswords.squaredswords_source": "Kinetische Geschwindigkeit",
+
+	"item.squaredswords.squaredswords_item.tooltip.summary": "Ein Vorführgegenstand für die _Beispiel-Erweiterung_.",
+	"item.squaredswords.squaredswords_item.tooltip.condition1": "Wenn gehalten",
+	"item.squaredswords.squaredswords_item.tooltip.behaviour1": "Zeigt diese Beschreibung – ermöglicht durch Creates _ItemDescription_-Tooltip-System.",
+
+	"squaredswords.ponder.squaredswords_ponder.header": "Willkommen bei der Beispiel-Erweiterung",
+	"squaredswords.ponder.squaredswords_ponder.text_1": "Jeder Block hier wird aus squaredswords_ponder.nbt geladen",
+	"squaredswords.ponder.squaredswords_ponder.text_2": "Blockentitäten wie dieses Schild werden dargestellt und ticken wie in der Welt",
+	"squaredswords.ponder.squaredswords_ponder.text_3": "Zwei mechanische Arme flankieren das Schild und beweisen, dass auch Creates eigene Blöcke funktionieren",
+	"squaredswords.ponder.squaredswords_ponder.text_4": "Du kannst auch den blöcken rpm werte geben"
+}

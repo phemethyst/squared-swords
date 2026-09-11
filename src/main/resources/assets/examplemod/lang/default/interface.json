@@ -1,0 +1,10 @@
+{
+	"itemGroup.squaredswords": "Squared Swords",
+
+	"gui.squaredswords.squaredswords_generator.generating": "Generating rotation",
+	"gui.squaredswords.squaredswords_kinetic.consuming": "Drawing stress",
+	"gui.squaredswords.rpm": "%s RPM",
+	"gui.squaredswords.su": "%s SU",
+
+	"display_source.squaredswords.squaredswords_source": "Kinetic Speed"
+}
